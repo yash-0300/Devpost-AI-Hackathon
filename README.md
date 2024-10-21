@@ -1,6 +1,6 @@
 # Asclepius AI - Intelligent Healthcare Chatbot
 
-![Asclepius AI](https://drive.google.com/file/d/161PrCmQpU9kzaYpjk9jBCAAGdIEPgFd5/view?usp=sharing)
+![Asclepius AI](https://github.com/yash-0300/Devpost-AI-Hackathon/blob/main/Screenshot%202024-10-21%20233942.png)
 
 ## Table of Contents
 
