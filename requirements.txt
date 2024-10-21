@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+openai
+langchain-core
+langchain-experimental
+langchain-community
+base64
+streamlit_lottie
